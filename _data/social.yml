@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto:ritika@hitech.in
+  icon: fas fa-envelope
+- title: Call
+  url: tel:+919830478856
+  icon: fas fa-phone
+- title: Linkedin
+  url: https://www.linkedin.com/in/banutsav/
+  icon: fab fa-linkedin
