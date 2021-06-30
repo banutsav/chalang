@@ -17,4 +17,4 @@ First thing to note would be that we are not plugging in the sheet ID and the ta
 
 The formula will check if the value in cell `A13` matches the `B` column of any particular row. If it does then it retrieves columns `D to N` of that row.
 
-In case there is no match found then a `#NA` error is reported, this can be handled using the [ISNA](https://support.google.com/docs/answer/9365944?hl=en) function
+In case there is no match found then a <mark>#NA</mark> error is reported, this can be handled using the [ISNA](https://support.google.com/docs/answer/9365944?hl=en) function
