@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Index and Match"
+title:  "The Index and Match Functions"
 date:   2021-06-24 23:42:05 +0530
-categories: 
+tags: ['google-sheet-formulas']
 ---
 
 The [INDEX](https://support.google.com/docs/answer/3098242?hl=en) and [MATCH](https://support.google.com/docs/answer/3093378?hl=en) functions combined is often a faster and more stable alternative to the popular [VLOOKUP](https://support.google.com/docs/answer/3093318?hl=en) on Sheets. A very basic implementation is outlined in the below mentioned formula

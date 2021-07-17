@@ -16,6 +16,12 @@ layout: default
       </h2>
 
       <time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta">{{ post.date | date_to_string }}</time>
+      <div class="post-meta">
+        <i class="post-tags-icon fas fa-tag"></i>
+        {%- for tag in post.tags -%}
+          <span class="post-tag">{{ tag }}</span>&nbsp;
+        {%- endfor -%}
+      </div>
 
       <p class="post-excerpt">
         {% if post.description %}
