@@ -23,8 +23,10 @@ email: info@chalang.com
 tagline: End to End ERP's leveraging Google
 
 cover: "https://source.unsplash.com/joQdhwKZlJE"
+og_cover: "https://source.unsplash.com/SYTO3xs06fU"
 
-description:
+description: "We at Chalang specialize in taking the basic G-Suite and Excel infrastructure 
+and using it to construct manageable and affordable ERP systems." 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

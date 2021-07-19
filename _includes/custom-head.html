@@ -3,7 +3,7 @@
 {% if page.title %}
   <meta content="{{ site.title }} - {{ page.title }}" property="og:title">
 {% else %}
-  <meta content="{{ site.title }}" property="og:title">
+  <meta content="{{ site.title }} - {{ site.tagline }}" property="og:title">
 {% endif %}
 
 {% if page.title %}
@@ -12,8 +12,8 @@
   <meta content="website" property="og:type">
 {% endif %}
 
-<meta content="{{ site.tagline }}" property="og:description">
-<meta content="{{ site.cover }}" property="og:image">
+<meta content="{{ site.description }}" property="og:description">
+<meta content="{{ site.og_cover }}" property="og:image">
 
 <!-- Favicon -->
 <link rel="shortcut icon" href="{{ '/img/logo.png' | absolute_url }}">

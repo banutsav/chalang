@@ -8,7 +8,10 @@ If you are a Small or Medium Scale Business, chances are that you might be using
 
 ### This is were we come in ###
 
-> We at Chalang specialize in taking the basic G-Suite and Excel infrastructure and using it to construct manageable and affordable ERP systems. We do so by using [Google Sheets](https://www.google.com/sheets/about/), it's range of [poweful functions](https://support.google.com/docs/table/25273?hl=en) and Google's [App Script](https://developers.google.com/apps-script) Framework.
+> {{ site.description }} We do so by using [Google Sheets](https://www.google.com/sheets/about/)
+, it's range of [poweful functions](https://support.google.com/docs/table/25273?hl=en) 
+and Google's [App Script](https://developers.google.com/apps-script) Framework.
+
 
 We offer the following modules - fully customizable based on the needs of your organization
 
